@@ -1,0 +1,58 @@
+<head>
+<style>
+#main{
+  background-color:#eee;
+font-size:20px;
+}
+#title{
+  font-family: 'Crimson Text', serif;
+}
+body{
+  font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  text-align: center;
+  color: #333;
+  margin: 0;
+}
+#img-div{
+  background-color:white;
+   padding: 10px;
+  margin: 0;
+}
+body{
+  text-align:center;
+}
+h1 {
+  font-size: 4rem;
+  margin-bottom: 0;
+}
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+@media (max-width: 460px) {
+  #main {
+    margin: 0;
+  }
+}
+</style>
+</head>
+
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@1,700&display=swap" rel="stylesheet"> 
+<div id="main">
+  
+<h1 id="title">J. K. Rowling</h1>
+<h3> better known by her pen name J. K. Rowling, is a British author, screenwriter, producer, and philanthropist</h3>
+<div id="img-div">
+  <img id="image" src="https://image.cnbcfm.com/api/v1/image/104551704-JK_Rowling.jpg?v=1532563812&w=1600&h=900" alt="J. K. Rowling">
+  <h4 id="img-caption"> Author-screenwriter-producer-philanthropist<h4>
+  
+  </div>
+   <p id="tribute-info">Born in Yate, Gloucestershire, Rowling was working as a researcher and bilingual secretary for Amnesty International when she conceived the idea for the Harry Potter series while on a delayed train from Manchester to London in 1990.<br>The seven-year period that followed saw the death of her mother, birth of her first child, divorce from her first husband, and relative poverty until the first novel in the series, Harry Potter and the Philosopher's Stone, was published in 1997.<br> There were six sequels, of which the last, Harry Potter and the Deathly Hallows, was released in 2007. <br>Since then, Rowling has written five books for adult readers: <strong>The Casual Vacancy (2012) and—under the pseudonym Robert Galbraith—the crime fiction Cormoran Strike series, which consists of The Cuckoo's Calling (2013), The Silkworm (2014), Career of Evil (2015), and Lethal White (2018)</strong>.<br> Between 26 May and 10 July 2020, her "political fairytale" for children, The Ickabog, was released in instalments in an online version.</p> 
+<footer>If you have time, you should read more about this incredible human being on her<a id="tribute-link" href="https://en.wikipedia.org/wiki/J._K._Rowling" target="_blank"> Wikipedia entry</a>. </footer>
+  
+    
+    </div>
